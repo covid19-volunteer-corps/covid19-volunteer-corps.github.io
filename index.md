@@ -14,4 +14,4 @@
 - Google Drive folder that contains the latest visor files to be printed with PLA or ABS alternative filament.
 
 ## CONTACT INFO
-covid-volunteer-corps@canopenerlabs.com
+[covid-volunteer-corps@canopenerlabs.com](mailto:covid-volunteer-corps@canopenerlabs.com)
